@@ -32,6 +32,4 @@ Final Year Undergraduate, <br/>
 Mathematics Department IIT Bombay <br/>
 [LinkedIn](https://www.linkedin.com/in/dipanshu-sharma-523921176) <br/>
 
-<br/>
-Visit the following website to see, visulalize and forecast the trends and forecasts: <br/>
-[Website](https://ayushdv.shinyapps.io/Stock_Market_Analysis/) <br/>
+Visit the following website to see, visulalize and forecast the trends and forecasts: https://ayushdv.shinyapps.io/Stock_Market_Analysis/
