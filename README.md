@@ -25,12 +25,13 @@ This project has been developed by, <br/>
 # Ayushmaan Dev Verma 
 Final Year Undergraduate, <br/>
 Mathematics Department IIT Bombay <br/>
-https://www.linkedin.com/in/ayushmaan-dev-verma-654b57170 <br/>
+[LinkedIn](https://www.linkedin.com/in/ayushmaan-dev-verma-654b57170) <br/>
 
 # Dipanshu Sharma 
 Final Year Undergraduate, <br/>
 Mathematics Department IIT Bombay <br/>
-[Hello](https://www.linkedin.com/in/dipanshu-sharma-523921176) <br/>
+[LinkedIn](https://www.linkedin.com/in/dipanshu-sharma-523921176) <br/>
 
 <br/>
-Visit the following website to see, visulalize and forecast the trends and forecasts: [Stock Market Analysis](https://ayushdv.shinyapps.io/Stock_Market_Analysis/?_ga=2.78954516.1808921403.1627740907-66983969.1623759952)
+Visit the following website to see, visulalize and forecast the trends and forecasts: 
+[Stock Market Analysis](https://ayushdv.shinyapps.io/Stock_Market_Analysis/?_ga=2.78954516.1808921403.1627740907-66983969.1623759952)
