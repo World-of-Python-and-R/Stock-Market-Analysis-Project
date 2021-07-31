@@ -33,5 +33,4 @@ Mathematics Department IIT Bombay <br/>
 [LinkedIn](https://www.linkedin.com/in/dipanshu-sharma-523921176) <br/>
 
 <br/>
-Visit the following website to see, visulalize and forecast the trends and forecasts: 
-[Stock Market Analysis](https://ayushdv.shinyapps.io/Stock_Market_Analysis/)
+Visit the following website to see, visulalize and forecast the trends and forecasts: [Website](https://ayushdv.shinyapps.io/Stock_Market_Analysis)
