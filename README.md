@@ -34,4 +34,4 @@ Mathematics Department IIT Bombay <br/>
 
 <br/>
 Visit the following website to see, visulalize and forecast the trends and forecasts: 
-[Stock Market Analysis](https://ayushdv.shinyapps.io/Stock_Market_Analysis/?_ga=2.78954516.1808921403.1627740907-66983969.1623759952)
+[Stock Market Analysis](https://ayushdv.shinyapps.io/Stock_Market_Analysis/)
